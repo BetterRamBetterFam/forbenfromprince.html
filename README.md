@@ -1,5 +1,34 @@
-# forbenfromprince.html
-FOR THE HOODS
-Its Not Many Angels left But I know we find angles 
-I hope to grow into something that can help the world
-yee yeee woot woot
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+Body{
+Background:black;
+
+}
+
+H1{
+Background:black;
+Color:yellow;
+Text-align:center;
+Font:size 80px;}
+P{text-align:center;
+Color:pink;
+Background:red;
+}
+Li{}
+Ul{}
+</style>
+</head>
+<body>
+
+<h1>When All The Hoods Of The World<br><q>Come Together</q></h1>
+<li></li>
+<ul></ul>
+<p>If every hood could undererstand that we are just groups with different titles with the same goals.<br>Also That <b>WE SEE EACH OTHER AS "them" or "they" that is de only veil that stops humans from coming together!</p>
+
+<p></p>
+
+</body>
+</html>
